@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  Funkcje.cpp
+C:\Users\needc\Desktop\projekty\Statki\GraWStatki\GraWStatki\Funkcje.cpp(372,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\needc\Desktop\projekty\Statki\GraWStatki\GraWStatki\Funkcje.cpp(530,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  GraWStatki.vcxproj -> C:\Users\needc\Desktop\projekty\Statki\GraWStatki\Debug\GraWStatki.exe
